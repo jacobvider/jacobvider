@@ -7,6 +7,18 @@
 You can find my resume [here](https://drive.google.com/file/d/1_NnGKHSqLWAM-oKvcPzwxXDeBpBd6_Sj/view?usp=share_link).
 
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Java      |
+|     3| MATLAB    |
+|     4| C/C++     |
+
+
+</details>
 
 <!--
 **kkarakas/kkarakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
