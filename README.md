@@ -9,17 +9,6 @@ You can find my resume [here](https://drive.google.com/file/d/1_NnGKHSqLWAM-oKvc
 ![](https://github-readme-stats.vercel.app/api?username=kkarakas)
 
 
-<details>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| Python    |
-|     3| SQL       |
-  
-</details>
-
 <!--
 **kkarakas/kkarakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
