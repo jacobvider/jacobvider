@@ -6,7 +6,6 @@
 
 You can find my resume [here](https://drive.google.com/file/d/1_NnGKHSqLWAM-oKvcPzwxXDeBpBd6_Sj/view?usp=share_link).
 
-![](https://github-readme-stats.vercel.app/api?username=kkarakas)
 
 
 <!--
