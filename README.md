@@ -13,9 +13,9 @@ You can find my resume [here](https://drive.google.com/file/d/1_NnGKHSqLWAM-oKvc
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| Java      |
+|     2| C++       |
 |     3| MATLAB    |
-|     4| C/C++     |
+|     4| Java      |
 
 
 </details>
